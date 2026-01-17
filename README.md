@@ -1,7 +1,12 @@
 # Remote Widget Hideable
 
+[![Pub Version](https://img.shields.io/pub/v/remote_widget_hideable)](https://pub.dev/packages/remote_widget_hideable)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A simple Flutter widget to show or hide UI components remotely using Cloud Firestore.
 Useful for feature flagging, hiding components during app review, or A/B testing.
+
+**Repository:** [https://github.com/kedirinesia/remote-hideable-widget-](https://github.com/kedirinesia/remote-hideable-widget-)
 
 ## Features
 

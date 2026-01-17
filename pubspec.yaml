@@ -1,8 +1,8 @@
 name: remote_widget_hideable
-description: A new Flutter package project.
+description: A Flutter widget to remotely show or hide UI components using Cloud Firestore real-time updates. Useful for feature flagging and review.
 version: 0.0.1
-homepage:
-
+homepage: https://github.com/kedirinesia/remote-hideable-widget-
+repository: https://github.com/kedirinesia/remote-hideable-widget-
 environment:
   sdk: ">=2.19.6 <3.0.0"
   flutter: ">=1.17.0"

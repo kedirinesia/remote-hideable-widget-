@@ -1,0 +1,7 @@
+# Mark platform-specific folders as generated to exclude from language stats
+android/** linguist-generated
+ios/** linguist-generated
+linux/** linguist-generated
+macos/** linguist-generated
+web/** linguist-generated
+windows/** linguist-generated
